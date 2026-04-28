@@ -200,6 +200,6 @@ No paid APIs or external services required.
 
 ## Author
 
-**[Muhammad Shoaib Haider]**    
-GitHub: [shoaibhaider-ai]  
+**Muhammad Shoaib Haider**    
+GitHub: shoaibhaider-ai  
 Date: April 28, 2026
