@@ -1,0 +1,105 @@
+========================================
+KNOWLEDGE BASE: Interview Preparation Notes
+Source: AI & Data Science Course Slides + Personal Study Notes
+Updated: April 2026
+========================================
+
+SECTION 1: AGENTIC AI & LLM CONCEPTS
+--------------------------------------
+- An AI agent is an autonomous system that perceives its environment, makes
+  decisions, and takes actions to achieve a defined goal.
+- The GAME framework stands for: Goals, Actions, Memory, and Environment.
+- LLMs (Large Language Models) use transformer architecture and are trained on
+  massive text corpora to generate human-like responses.
+- Prompt engineering is the practice of designing input prompts to guide LLM
+  behaviour toward a desired output without retraining the model.
+- RAG (Retrieval-Augmented Generation) combines a retrieval system with a
+  generative model to produce factually grounded responses.
+- Vector databases (e.g., Pinecone, FAISS, Chroma) store embeddings and enable
+  fast semantic similarity search for RAG pipelines.
+- LangChain is a framework for building LLM-powered applications with chains,
+  agents, memory, and tool integrations.
+
+SECTION 2: MACHINE LEARNING FUNDAMENTALS
+------------------------------------------
+- Supervised learning: model learns from labelled data (input → known output).
+  Examples: classification, regression.
+- Unsupervised learning: model finds patterns in unlabelled data.
+  Examples: clustering (K-Means), dimensionality reduction (PCA).
+- Reinforcement learning: agent learns by interacting with environment and
+  receiving rewards or penalties for actions.
+- Bias-variance tradeoff: high bias = underfitting; high variance = overfitting.
+  Goal is to find the sweet spot with low test error.
+- Overfitting: model memorises training data but fails on unseen data.
+  Solutions: regularisation (L1/L2), dropout, cross-validation, more data.
+- Cross-validation (k-fold) is used to estimate model generalisation by training
+  on k-1 folds and validating on the remaining fold, repeated k times.
+
+SECTION 3: KEY ML ALGORITHMS
+------------------------------
+- Linear Regression: predicts continuous output using a linear function.
+- Logistic Regression: predicts class probability using sigmoid activation.
+- Decision Trees: split data at feature thresholds to create a tree structure.
+- Random Forest: ensemble of decision trees that reduces variance via bagging.
+- Support Vector Machine (SVM): finds optimal hyperplane to separate classes.
+- K-Nearest Neighbours (KNN): classifies based on majority vote of k neighbours.
+- K-Means Clustering: groups data into k clusters by minimising intra-cluster distance.
+- Gradient Boosting (XGBoost, LightGBM): sequential ensemble that corrects errors.
+
+SECTION 4: DEEP LEARNING
+--------------------------
+- Neural networks consist of layers: input, hidden, and output layers.
+- Activation functions: ReLU (hidden layers), Sigmoid (binary output), Softmax (multi-class).
+- Convolutional Neural Networks (CNNs) are designed for image data using filters.
+- Recurrent Neural Networks (RNNs) and LSTMs handle sequential/time-series data.
+- Transformers use self-attention mechanism and are the basis of modern LLMs.
+- Transfer learning: use a pre-trained model and fine-tune on a specific task.
+- Batch size, learning rate, and number of epochs are key hyperparameters.
+
+SECTION 5: DATA PREPROCESSING
+--------------------------------
+- Data cleaning: handle missing values (impute or drop), fix data types, remove duplicates.
+- Feature engineering: create new features from existing ones to improve model performance.
+- Normalisation: scale features to [0,1] range. Useful for distance-based algorithms.
+- Standardisation: scale to zero mean and unit variance (z-score standardisation).
+- Encoding: convert categorical features to numbers (Label Encoding, One-Hot Encoding).
+- Train/test split: typically 80% train, 20% test; use stratified split for imbalanced data.
+
+SECTION 6: MODEL EVALUATION METRICS
+--------------------------------------
+- Accuracy: correct predictions / total predictions. Misleading for imbalanced data.
+- Precision: true positives / (true positives + false positives).
+- Recall (Sensitivity): true positives / (true positives + false negatives).
+- F1-Score: harmonic mean of precision and recall. Good for imbalanced datasets.
+- ROC-AUC: measures model's ability to distinguish between classes across thresholds.
+- MAE (Mean Absolute Error): average absolute difference (regression).
+- RMSE (Root Mean Squared Error): penalises large errors more (regression).
+- Confusion matrix: table showing TP, TN, FP, FN for classification problems.
+
+SECTION 7: PYTHON & DATA TOOLS
+---------------------------------
+- pandas: data manipulation library. Key functions: read_csv, groupby, merge, fillna.
+- numpy: numerical computing. Key: arrays, matrix operations, broadcasting.
+- matplotlib & seaborn: data visualisation. plt.plot, sns.heatmap, sns.pairplot.
+- scikit-learn: ML library with consistent API: fit(), predict(), score().
+- Jupyter Notebook: interactive Python environment for exploratory data analysis.
+- Flask: lightweight Python web framework. Key: routes, request, jsonify.
+- Git: version control system. Key commands: init, add, commit, push, pull, branch.
+
+SECTION 8: SOFTWARE ENGINEERING PRACTICES
+-------------------------------------------
+- OOP (Object-Oriented Programming): Encapsulation, Inheritance, Polymorphism, Abstraction.
+- Clean code: use meaningful variable names, write modular functions, add docstrings.
+- Version control best practices: commit often, write clear commit messages, use branches.
+- REST API design: use proper HTTP methods (GET, POST, PUT, DELETE), return JSON responses.
+- Documentation: write a clear README.md with setup instructions and usage examples.
+
+SECTION 9: BEHAVIOURAL INTERVIEW TIPS
+----------------------------------------
+- Use the STAR method: Situation, Task, Action, Result.
+- Always quantify achievements where possible (e.g., "improved accuracy by 12%").
+- Show enthusiasm for learning and growth, not just current knowledge.
+- Research the company before the interview — products, tech stack, values.
+- Prepare 2–3 strong project stories that demonstrate problem-solving and impact.
+- Ask thoughtful questions at the end of the interview to show genuine interest.
+- Body language: maintain eye contact, speak clearly, and stay calm under pressure.

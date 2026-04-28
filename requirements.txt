@@ -1,0 +1,16 @@
+# No external packages required.
+# The CareerPrep Job-Hunting Agent uses only Python standard library modules:
+#   os, csv, re, datetime
+#
+# Optional packages for advanced features (not required for basic run):
+#   pypdf>=3.0.0        # Read PDF job posters / resumes
+#   python-docx>=0.8.11 # Read DOCX resume files
+#   streamlit>=1.32.0   # Web dashboard interface
+#   openai>=1.0.0       # LLM API integration
+#   spacy>=3.7.0        # Advanced NLP extraction
+
+# Uncomment lines below if you choose to implement optional features:
+# pypdf>=3.0.0
+# python-docx>=0.8.11
+# streamlit>=1.32.0
+# openai>=1.0.0

@@ -1,0 +1,86 @@
+========================================
+RESUME
+Name    : Ali Hassan
+Email   : ali.hassan@gmail.com
+Phone   : +92-300-1234567
+GitHub  : github.com/ali-hassan-dev
+LinkedIn: linkedin.com/in/ali-hassan-ai
+Location: Lahore, Pakistan
+========================================
+
+EDUCATION
+---------
+BS Computer Science
+FAST – National University of Computer and Emerging Sciences (NUCES)
+Expected Graduation: June 2027
+CGPA: 3.5 / 4.0
+
+Relevant Coursework:
+- Artificial Intelligence
+- Machine Learning
+- Data Structures and Algorithms
+- Database Management Systems
+- Software Engineering
+- Probability and Statistics
+
+TECHNICAL SKILLS
+----------------
+Programming Languages : Python, SQL, JavaScript
+AI / ML Frameworks    : scikit-learn, TensorFlow, pandas, numpy
+Data Visualization    : matplotlib, seaborn
+Web Development       : Flask, HTML, CSS
+Tools & Platforms     : Git, GitHub, Jupyter, VSCode, Linux (basic)
+Databases             : MySQL, SQLite
+Other                 : REST API development, OOP, data preprocessing, feature engineering
+
+PROJECTS
+--------
+
+1. Student Performance Predictor (ML Project)
+   - Developed a machine learning model using scikit-learn to predict student
+     exam results based on demographic and study-habit data.
+   - Applied data preprocessing, feature engineering, and cross-validation.
+   - Achieved 89% accuracy using Random Forest classifier.
+   - Implemented Python scripts for model training, evaluation, and reporting.
+   - Deployed a simple Flask API to serve predictions over HTTP.
+   - GitHub: github.com/ali-hassan-dev/student-predictor
+
+2. Sentiment Analysis on Twitter Data (NLP)
+   - Built an NLP pipeline to classify tweet sentiment (positive/negative/neutral).
+   - Used scikit-learn with TF-IDF vectorisation for text feature engineering.
+   - Visualised class distribution and confusion matrix using matplotlib and seaborn.
+   - Documented process in a Jupyter Notebook with clear markdown explanations.
+   - GitHub: github.com/ali-hassan-dev/twitter-sentiment
+
+3. Personal Finance Dashboard (Web)
+   - Created a Flask web application for tracking monthly income and expenses.
+   - Implemented REST API endpoints for CRUD operations on transaction data.
+   - Stored data in a MySQL database; used SQL for querying and aggregation.
+   - Designed a simple frontend using HTML and CSS.
+   - GitHub: github.com/ali-hassan-dev/finance-tracker
+
+4. Weather Data Analysis (Data Project)
+   - Analysed 5-year weather dataset using pandas and numpy.
+   - Created interactive data visualizations with matplotlib showing temperature trends.
+   - Produced a summary report with statistical insights.
+
+EXPERIENCE
+----------
+Freelance Python Tutor | Upwork | Jan 2025 – Present
+- Teaching Python fundamentals and data science concepts to students.
+- Developed course exercises and project guides used by 30+ learners.
+
+CERTIFICATIONS
+--------------
+- Machine Learning Specialization — Coursera / Andrew Ng (2025)
+- Python for Data Science — IBM / Coursera (2024)
+- Git and GitHub Essentials — GitHub Learning Lab (2024)
+
+SOFT SKILLS
+-----------
+Communication, problem solving, teamwork, time management, collaboration,
+critical thinking, adaptability, presentation
+
+LANGUAGES
+---------
+English (Fluent), Urdu (Native)

@@ -1,0 +1,66 @@
+
+══════════════════════════════════════════════════════════════
+  JOB ANALYSIS REPORT
+══════════════════════════════════════════════════════════════
+Generated : 2026-04-28 19:29
+Files read: job_poster_01.txt, job_poster_02.txt
+
+SKILLS & KEYWORDS FOUND IN JOB DESCRIPTIONS
+------------------------------------------------
+
+  [Programming Languages]
+    •  python
+
+  [AI & Machine Learning]
+    •  machine learning
+    •  deep learning
+    •  scikit-learn
+    •  tensorflow
+    •  pytorch
+    •  prompt engineering
+    •  data preprocessing
+    •  feature engineering
+    •  model training
+
+  [Data & Analytics]
+    •  pandas
+    •  numpy
+    •  matplotlib
+    •  seaborn
+    •  sql
+    •  mysql
+    •  postgresql
+    •  data analysis
+    •  data visualization
+    •  tableau
+    •  power bi
+    •  statistics
+
+  [Web & APIs]
+    •  flask
+    •  rest api
+    •  api
+
+  [DevOps & Tools]
+    •  git
+    •  github
+    •  docker
+    •  jupyter
+
+  [Soft Skills]
+    •  communication
+    •  problem solving
+    •  presentation
+    •  collaboration
+
+  [Engineering Practices]
+    •  agile
+
+  Total skill areas identified: 34
+
+KEY ROLE INDICATORS (extracted from job text)
+------------------------------------------------
+  →  Company: ABC Tech Solutions
+  →  ROLE: Junior AI Engineer Intern
+  →  Company: DataVision Analytics
+  →  ROLE: Data Science Intern

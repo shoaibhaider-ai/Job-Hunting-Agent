@@ -1,0 +1,125 @@
+
+══════════════════════════════════════════════════════════════
+  INTERVIEW QUESTIONS
+══════════════════════════════════════════════════════════════
+Generated : 2026-04-28 19:29
+
+TECHNICAL QUESTIONS (BY SKILL AREA)
+------------------------------------------------
+
+  [Programming Languages]
+  Q01. What are Python decorators and why would you use them?
+  Q02. Explain OOP concepts: inheritance, polymorphism, and encapsulation.
+  Q03. What is the difference between a list, tuple, set, and dictionary in Python?
+  Q04. How does Python handle memory management and garbage collection?
+  Q05. How have you applied 'python' in a project or academic task?
+
+  [AI & Machine Learning]
+  Q06. What is the difference between supervised, unsupervised, and reinforcement learning?
+  Q07. How do you handle overfitting in a machine learning model?
+  Q08. Explain the bias-variance tradeoff with an example.
+  Q09. What evaluation metric would you choose for an imbalanced classification dataset and why?
+  Q10. Describe the steps in a typical ML pipeline from raw data to deployment.
+  Q11. How have you applied 'machine learning' in a project or academic task?
+  Q12. How have you applied 'deep learning' in a project or academic task?
+  Q13. How have you applied 'scikit-learn' in a project or academic task?
+  Q14. How have you applied 'tensorflow' in a project or academic task?
+  Q15. How have you applied 'pytorch' in a project or academic task?
+  Q16. How have you applied 'prompt engineering' in a project or academic task?
+  Q17. How have you applied 'data preprocessing' in a project or academic task?
+  Q18. How have you applied 'feature engineering' in a project or academic task?
+  Q19. How have you applied 'model training' in a project or academic task?
+
+  [Data & Analytics]
+  Q20. How do you handle missing values in a real-world dataset?
+  Q21. What is the difference between INNER JOIN, LEFT JOIN, and FULL OUTER JOIN in SQL?
+  Q22. How would you detect and handle outliers in a dataset?
+  Q23. Describe a data analysis project you have worked on end-to-end.
+  Q24. How have you applied 'pandas' in a project or academic task?
+  Q25. How have you applied 'numpy' in a project or academic task?
+  Q26. How have you applied 'matplotlib' in a project or academic task?
+  Q27. How have you applied 'seaborn' in a project or academic task?
+  Q28. How have you applied 'sql' in a project or academic task?
+  Q29. How have you applied 'mysql' in a project or academic task?
+  Q30. How have you applied 'postgresql' in a project or academic task?
+  Q31. How have you applied 'data analysis' in a project or academic task?
+  Q32. How have you applied 'data visualization' in a project or academic task?
+  Q33. How have you applied 'tableau' in a project or academic task?
+  Q34. How have you applied 'power bi' in a project or academic task?
+  Q35. How have you applied 'statistics' in a project or academic task?
+
+  [Web & APIs]
+  Q36. What is a REST API and how does it differ from GraphQL?
+  Q37. How would you secure a REST API endpoint against unauthorized access?
+  Q38. Explain HTTP status codes 200, 400, 401, 403, 404, and 500.
+  Q39. How have you applied 'flask' in a project or academic task?
+  Q40. How have you applied 'rest api' in a project or academic task?
+  Q41. How have you applied 'api' in a project or academic task?
+
+  [DevOps & Tools]
+  Q42. What is the difference between git merge and git rebase?
+  Q43. What is Docker and what problem does it solve?
+  Q44. Describe your GitHub workflow when collaborating on a team project.
+  Q45. How have you applied 'git' in a project or academic task?
+  Q46. How have you applied 'github' in a project or academic task?
+  Q47. How have you applied 'docker' in a project or academic task?
+  Q48. How have you applied 'jupyter' in a project or academic task?
+
+  [Soft Skills]
+  Q49. How have you applied 'communication' in a project or academic task?
+  Q50. How have you applied 'problem solving' in a project or academic task?
+  Q51. How have you applied 'presentation' in a project or academic task?
+  Q52. How have you applied 'collaboration' in a project or academic task?
+
+  [Engineering Practices]
+  Q53. How have you applied 'agile' in a project or academic task?
+
+
+HR & BEHAVIOURAL QUESTIONS
+------------------------------------------------
+  Q54. Tell me about yourself and your career goals.
+  Q55. Why are you interested in this specific role and company?
+  Q56. Describe your most challenging project experience and how you handled it.
+  Q57. How do you manage your time when working under multiple deadlines?
+  Q58. Tell me about a time you worked effectively in a team.
+  Q59. What are your greatest strengths and areas you want to improve?
+  Q60. Where do you see yourself in 3–5 years?
+  Q61. Why should we select you over other candidates?
+  Q62. How do you keep up to date with new developments in AI and technology?
+  Q63. Describe a project you are most proud of and explain your contribution.
+
+
+QUESTIONS DERIVED FROM KNOWLEDGE BASE
+------------------------------------------------
+  (Based on your uploaded KB files — study these carefully)
+
+  Q64. Explain the following concept and give a practical example:
+       "FILE: interview_prep_notes.txt ---"
+  Q65. Explain the following concept and give a practical example:
+       "========================================"
+  Q66. Explain the following concept and give a practical example:
+       "KNOWLEDGE BASE: Interview Preparation Notes"
+  Q67. Explain the following concept and give a practical example:
+       "Source: AI & Data Science Course Slides + Personal Study Notes"
+  Q68. Explain the following concept and give a practical example:
+       "========================================"
+  Q69. Explain the following concept and give a practical example:
+       "SECTION 1: AGENTIC AI & LLM CONCEPTS"
+  Q70. Explain the following concept and give a practical example:
+       ""
+  Q71. Explain the following concept and give a practical example:
+       "An AI agent is an autonomous system that perceives its environment, makes"
+  Q72. Explain the following concept and give a practical example:
+       "decisions, and takes actions to achieve a defined goal."
+  Q73. Explain the following concept and give a practical example:
+       "The GAME framework stands for: Goals, Actions, Memory, and Environment."
+  Q74. Explain the following concept and give a practical example:
+       "LLMs (Large Language Models) use transformer architecture and are trained on"
+  Q75. Explain the following concept and give a practical example:
+       "massive text corpora to generate human-like responses."
+  Q76. Explain the following concept and give a practical example:
+       "Prompt engineering is the practice of designing input prompts to guide LLM"
+  Q77. Explain the following concept and give a practical example:
+       "behaviour toward a desired output without retraining the model."
+  Q78. Explain the following concept and give a practical example:
+       "RAG (Retrieval-Augmented Generation) combines a retrieval system with a"

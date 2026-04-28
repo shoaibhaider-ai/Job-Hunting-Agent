@@ -1,0 +1,57 @@
+========================================
+JOB POSTER: Junior AI Engineer Intern
+Company: ABC Tech Solutions
+Location: Lahore, Pakistan (Hybrid)
+Source: LinkedIn
+Posted: April 25, 2026
+========================================
+
+ABOUT THE COMPANY
+-----------------
+ABC Tech Solutions is a fast-growing software house specialising in AI-driven
+enterprise products. We build tools that help businesses automate workflows,
+analyse customer data, and deploy production-ready machine learning models.
+
+ROLE: Junior AI Engineer Intern
+EMPLOYMENT TYPE: Internship (3–6 months, paid)
+STIPEND: PKR 20,000–30,000/month
+
+ROLE OVERVIEW
+-------------
+We are looking for a motivated and curious junior AI engineering intern to
+join our applied AI team. You will work alongside senior engineers to design,
+build, and evaluate machine learning pipelines and assist in deploying models
+to production APIs.
+
+KEY RESPONSIBILITIES
+--------------------
+- Assist in data preprocessing and feature engineering for ML models.
+- Write clean, modular Python code for data pipelines and model training.
+- Help evaluate model performance using appropriate metrics.
+- Work with the team to integrate ML models into REST API endpoints (Flask).
+- Document experiments, results, and code clearly using GitHub.
+- Participate in Agile sprint planning and daily stand-ups.
+
+REQUIRED SKILLS & QUALIFICATIONS
+---------------------------------
+- Currently enrolled in BS Computer Science, Data Science, or related field.
+- Proficiency in Python (must).
+- Solid understanding of machine learning concepts and scikit-learn.
+- Familiarity with data preprocessing, feature engineering, and pandas/numpy.
+- Basic understanding of REST API development using Flask.
+- Working knowledge of Git and GitHub for version control.
+- Strong problem solving and communication skills.
+- Ability to work collaboratively in a team environment.
+
+PREFERRED (BONUS) SKILLS
+--------------------------
+- Experience with deep learning frameworks: TensorFlow or PyTorch.
+- Familiarity with prompt engineering and LLMs.
+- Exposure to Docker or basic deployments.
+- Knowledge of SQL for data querying.
+
+HOW TO APPLY
+------------
+Send your resume and GitHub profile link to: careers@abctech.pk
+Subject line: Application — Junior AI Engineer Intern
+Deadline: May 5, 2026

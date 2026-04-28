@@ -1,0 +1,38 @@
+
+══════════════════════════════════════════════════════════════
+  PROJECT-TO-JOB SKILL MAPPING
+══════════════════════════════════════════════════════════════
+Generated : 2026-04-28 19:29
+
+This section shows which of your projects cover the required job skills.
+
+  PROJECT 1: 1. Student Performance Predictor (ML Project)
+    → No direct skill match. Add relevant keywords to this entry.
+
+  PROJECT 2: - Developed a machine learning model using scikit-learn to predict student
+    → Job skills covered: machine learning, scikit-learn
+
+  PROJECT 3: - Implemented Python scripts for model training, evaluation, and reporting.
+    → Job skills covered: python, model training
+
+  PROJECT 4: - Deployed a simple Flask API to serve predictions over HTTP.
+    → Job skills covered: flask, api
+
+  PROJECT 5: - Built an NLP pipeline to classify tweet sentiment (positive/negative/neutral).
+    → No direct skill match. Add relevant keywords to this entry.
+
+  PROJECT 6: - Created a Flask web application for tracking monthly income and expenses.
+    → Job skills covered: flask
+
+  PROJECT 7: - Implemented REST API endpoints for CRUD operations on transaction data.
+    → Job skills covered: rest api, api
+
+  PROJECT 8: - Designed a simple frontend using HTML and CSS.
+    → No direct skill match. Add relevant keywords to this entry.
+
+  PROJECT 9: 4. Weather Data Analysis (Data Project)
+    → Job skills covered: data analysis
+
+  PROJECT 10: - Created interactive data visualizations with matplotlib showing temperature trends.
+    → Job skills covered: matplotlib, data visualization
+

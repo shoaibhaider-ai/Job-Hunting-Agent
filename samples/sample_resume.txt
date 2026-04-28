@@ -1,0 +1,41 @@
+========================================
+SAMPLE RESUME
+Name: Sample Student
+Email: student@example.com
+GitHub: github.com/samplestudent
+LinkedIn: linkedin.com/in/samplestudent
+========================================
+
+EDUCATION
+---------
+BS Computer Science — [University Name]
+Expected Graduation: 2027 | CGPA: 3.4/4.0
+
+SKILLS
+------
+Languages   : Python, SQL
+ML / AI     : scikit-learn, pandas, numpy, machine learning, data preprocessing
+Tools       : Git, GitHub, Jupyter, Flask
+Soft Skills : communication, problem solving, teamwork, collaboration
+
+PROJECTS
+--------
+1. House Price Prediction (ML)
+   - Developed a regression model using scikit-learn to predict house prices.
+   - Applied data preprocessing and feature engineering on the dataset.
+   - Achieved RMSE of 12,500 on the test set.
+   - Documented the project on GitHub with a detailed README.
+
+2. Student Grade Analyser (Data)
+   - Analysed student performance data using pandas and numpy.
+   - Created visualizations with matplotlib to identify grade trends.
+   - Wrote SQL queries to extract data from a MySQL database.
+
+3. Task Manager API (Web)
+   - Built a REST API using Flask for managing daily tasks.
+   - Implemented CRUD operations with SQLite as the backend.
+
+CERTIFICATIONS
+--------------
+- Python for Everybody — Coursera
+- Machine Learning Basics — Coursera

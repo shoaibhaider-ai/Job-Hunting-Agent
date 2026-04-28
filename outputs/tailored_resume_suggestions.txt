@@ -1,0 +1,52 @@
+
+══════════════════════════════════════════════════════════════
+  TAILORED RESUME SUGGESTIONS
+══════════════════════════════════════════════════════════════
+Generated : 2026-04-28 19:29
+
+RESUME QUALITY SCORECARD
+------------------------------------------------
+  Skill Breadth          [██████████]  100%
+  Length & Detail        [█████████░]  97%
+  Action Verbs           [████████░░]  84%
+  Contact & Links        [██████████]  100%
+  Overall                [█████████░]  95.2%
+
+IMPROVEMENT FEEDBACK
+------------------------------------------------
+  ⚠  Good skill variety. Ensure every skill is backed by project evidence.
+
+SUGGESTED RESUME BULLET POINTS
+------------------------------------------------
+
+  [Programming Languages]
+    •  Wrote modular, OOP-based Python scripts for data extraction and analysis.
+    •  Implemented a command-line tool in Python to automate repetitive workflows.
+
+  [AI & Machine Learning]
+    •  Trained a classification model using scikit-learn with 93% test accuracy.
+    •  Built an NLP pipeline for text classification using Hugging Face transformers.
+    •  Designed a prompt-engineering workflow with LangChain to automate document Q&A.
+
+  [Data & Analytics]
+    •  Analyzed a 50,000-row dataset with Pandas and NumPy; identified 3 key trends.
+    •  Created interactive Matplotlib dashboards to visualize model performance.
+
+  [Web & APIs]
+    •  Built a REST API with Flask to serve ML model predictions to a React frontend.
+    •  Developed a Streamlit dashboard for real-time data exploration and filtering.
+
+  [DevOps & Tools]
+    •  Managed all projects on GitHub with structured branches, commits, and README files.
+    •  Used Docker to containerize a Flask application for consistent deployment.
+
+SKILLS TO ACQUIRE (with learning resources)
+------------------------------------------------
+  •  deep learning                 →  fast.ai — Practical Deep Learning for Coders
+  •  pytorch                       →  pytorch.org/tutorials
+  •  prompt engineering            →  DeepLearning.AI — Prompt Engineering for Developers
+  •  postgresql                    →  Search: 'postgresql tutorial for beginners'
+  •  tableau                       →  Search: 'tableau tutorial for beginners'
+  •  power bi                      →  Search: 'power bi tutorial for beginners'
+  •  docker                        →  docs.docker.com — Docker Get Started
+  •  agile                         →  Search: 'agile tutorial for beginners'

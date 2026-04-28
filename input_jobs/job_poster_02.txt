@@ -1,0 +1,63 @@
+========================================
+JOB POSTER: Data Science Intern
+Company: DataVision Analytics
+Location: Karachi, Pakistan (On-site)
+Source: Rozee.pk
+Posted: April 26, 2026
+========================================
+
+ABOUT THE COMPANY
+-----------------
+DataVision Analytics is a leading data consultancy firm helping enterprises
+make data-driven decisions through business intelligence, predictive analytics,
+and custom dashboard solutions.
+
+ROLE: Data Science Intern
+EMPLOYMENT TYPE: Internship (2–4 months)
+STIPEND: PKR 18,000–25,000/month
+
+ROLE OVERVIEW
+-------------
+We are seeking a detail-oriented Data Science Intern with a strong foundation
+in statistics, data analysis, and Python. You will assist our analytics team
+in cleaning datasets, building predictive models, and presenting insights
+through data visualizations.
+
+KEY RESPONSIBILITIES
+--------------------
+- Clean, transform, and analyse structured and semi-structured datasets.
+- Build and evaluate predictive models using Python and scikit-learn.
+- Create data visualizations using matplotlib and seaborn.
+- Write SQL queries to extract and join data from relational databases.
+- Prepare reports and presentations summarising analytical findings.
+- Collaborate with the BI team to integrate insights into Tableau dashboards.
+
+REQUIRED SKILLS
+---------------
+- Proficiency in Python, especially pandas and numpy.
+- Working knowledge of SQL (MySQL or PostgreSQL preferred).
+- Familiarity with machine learning workflows and scikit-learn.
+- Experience with data visualization libraries (matplotlib, seaborn).
+- Basic understanding of statistics (mean, median, distribution, correlation).
+- Strong communication and presentation skills.
+- Team collaboration and problem solving mindset.
+
+PREFERRED SKILLS
+----------------
+- Exposure to Tableau or Power BI.
+- Experience with Jupyter Notebook for iterative analysis.
+- Knowledge of data preprocessing and feature engineering.
+- Familiarity with GitHub for managing analysis notebooks.
+
+WHAT WE OFFER
+-------------
+- Hands-on experience with real business datasets.
+- Mentorship from senior data scientists.
+- Certificate of completion and recommendation letter.
+- Potential for full-time conversion based on performance.
+
+TO APPLY
+--------
+Submit CV + a sample data analysis project (notebook preferred) to:
+hr@datavision.pk
+Deadline: May 10, 2026

@@ -1,0 +1,29 @@
+
+══════════════════════════════════════════════════════════════
+  APPLICATION REMINDERS
+══════════════════════════════════════════════════════════════
+Generated  : 2026-04-28 19:29
+Today      : Tuesday, April 28, 2026
+
+🟡  UPCOMING — THIS WEEK
+------------------------------------------------
+  🟡 THIS WEEK — APP-001 | ABC Tech Solutions | Junior AI Engineer Intern
+    Interview : 2026-05-03  (5 days away)
+    Next action : Revise Python & ML concepts; prepare project explanations
+
+  📬 APP-002 | DataVision Analytics | Data Science Intern — Application submitted.
+    Follow-up  : 2026-05-02  (4 days away)
+    Next action: Send follow-up email if no response by May 2
+
+🟢  GENERAL REMINDERS
+------------------------------------------------
+  📝 APP-003 | CloudBase Systems | Python Developer Trainee — Not applied yet!
+    Next action: Tailor resume for Flask/Django; apply by April 30
+
+  🟢 PLANNED   — APP-004 | NeuralEdge AI | ML Research Assistant
+    Interview : 2026-05-10  (12 days away)
+    Next action : Prepare research presentation; study deep learning concepts
+
+  ❌ APP-005 | TechStart Innovations | Software Engineering Intern — Rejected.
+    Next action: Request feedback; improve GitHub portfolio projects
+

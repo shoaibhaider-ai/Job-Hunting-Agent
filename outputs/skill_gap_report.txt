@@ -1,0 +1,55 @@
+
+══════════════════════════════════════════════════════════════
+  SKILL GAP REPORT
+══════════════════════════════════════════════════════════════
+Generated : 2026-04-28 19:29
+
+  MATCH SCORE :  76.5%
+  Progress    : [███████████████░░░░░]
+
+MATCHED SKILLS  (26 found in your resume)
+------------------------------------------------
+  ✔  python
+  ✔  machine learning
+  ✔  scikit-learn
+  ✔  tensorflow
+  ✔  data preprocessing
+  ✔  feature engineering
+  ✔  model training
+  ✔  pandas
+  ✔  numpy
+  ✔  matplotlib
+  ✔  seaborn
+  ✔  sql
+  ✔  mysql
+  ✔  data analysis
+  ✔  data visualization
+  ✔  statistics
+  ✔  flask
+  ✔  rest api
+  ✔  api
+  ✔  git
+  ✔  github
+  ✔  jupyter
+  ✔  communication
+  ✔  problem solving
+  ✔  presentation
+  ✔  collaboration
+
+MISSING SKILLS  (8 gaps to close)
+------------------------------------------------
+  ✘  deep learning
+  ✘  pytorch
+  ✘  prompt engineering
+  ✘  postgresql
+  ✘  tableau
+  ✘  power bi
+  ✘  docker
+  ✘  agile
+
+PRIORITY LEARNING ROADMAP
+------------------------------------------------
+  1. [AI & Machine Learning]:  deep learning, pytorch, prompt engineering
+  2. [Data & Analytics]:  postgresql, tableau, power bi
+  3. [DevOps & Tools]:  docker
+  4. [Engineering Practices]:  agile

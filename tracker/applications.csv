@@ -1,0 +1,6 @@
+application_id,company,role,source,status,applied_date,interview_date,follow_up_date,next_action,notes
+APP-001,ABC Tech Solutions,Junior AI Engineer Intern,LinkedIn,Interview Scheduled,2026-04-20,2026-05-03,2026-05-06,Revise Python & ML concepts; prepare project explanations,Resume tailored; cover letter submitted
+APP-002,DataVision Analytics,Data Science Intern,Rozee.pk,Applied,2026-04-22,,2026-05-02,Send follow-up email if no response by May 2,Applied via online portal; confirmation email received
+APP-003,CloudBase Systems,Python Developer Trainee,Company Website,Not Applied,,,,Tailor resume for Flask/Django; apply by April 30,Strong Flask and REST API requirement
+APP-004,NeuralEdge AI,ML Research Assistant,University Job Portal,Shortlisted,2026-04-15,2026-05-10,2026-05-12,Prepare research presentation; study deep learning concepts,Shortlisted from 80 applicants; strong ML background required
+APP-005,TechStart Innovations,Software Engineering Intern,WhatsApp / Referral,Rejected,2026-04-10,,,Request feedback; improve GitHub portfolio projects,Rejected at initial screening; work on project quality

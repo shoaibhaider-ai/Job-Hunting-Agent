@@ -1,0 +1,20 @@
+========================================
+SAMPLE KNOWLEDGE BASE
+Topic: AI & Machine Learning Interview Guide
+========================================
+
+- Supervised learning trains models on labelled input-output pairs.
+- Unsupervised learning discovers patterns in data without labels.
+- The bias-variance tradeoff balances model complexity with generalisation.
+- Overfitting occurs when a model memorises training data and fails on new data.
+- Cross-validation estimates model performance by splitting data into k folds.
+- Random Forest is an ensemble of decision trees trained via bagging.
+- Gradient boosting builds trees sequentially, correcting previous errors.
+- Neural networks are inspired by biological neurons and use backpropagation.
+- Prompt engineering guides LLM behaviour through carefully designed inputs.
+- RAG combines retrieval systems with generative models for grounded answers.
+- pandas is the primary Python library for data manipulation and analysis.
+- scikit-learn provides a consistent API for building and evaluating ML models.
+- Git tracks code changes and GitHub hosts repositories for collaboration.
+- REST APIs communicate over HTTP using standard verbs: GET, POST, PUT, DELETE.
+- Python is the dominant language for AI, data science, and automation roles.

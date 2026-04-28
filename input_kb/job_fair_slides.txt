@@ -1,0 +1,98 @@
+========================================
+KNOWLEDGE BASE: Job Fair & Career Preparation Slides
+Source: University Career Services + AI Industry Talks (April 2026)
+========================================
+
+SLIDE 1: What Employers Look For in Junior AI Roles
+-----------------------------------------------------
+- Strong foundation in Python and data manipulation (pandas, numpy).
+- Ability to explain machine learning concepts clearly, not just run libraries.
+- Evidence of real projects on GitHub — quality over quantity.
+- Communication skills: can you explain technical results to non-technical stakeholders?
+- Growth mindset: willingness to learn and adapt quickly.
+- Familiarity with the software development lifecycle and version control (Git).
+
+SLIDE 2: Top Skills for 2026 AI/Data Job Market
+-------------------------------------------------
+- Python remains the #1 language for AI and data science roles.
+- Generative AI and prompt engineering are the fastest-growing skill demands.
+- SQL is a non-negotiable baseline for data roles.
+- Cloud platforms (AWS, Azure, GCP) are increasingly expected even for interns.
+- MLOps awareness (Docker, CI/CD, model monitoring) differentiates candidates.
+- Business communication and data storytelling are underrated but highly valued.
+- Portfolio projects and open-source contributions carry significant weight.
+
+SLIDE 3: How to Stand Out in a Competitive Job Market
+-------------------------------------------------------
+- Build a portfolio of 3–5 strong GitHub projects with clear README documentation.
+- Add a personal website or portfolio page linking all your projects.
+- Engage on LinkedIn: post about projects, share learnings, connect with professionals.
+- Contribute to open-source projects related to your target role.
+- Get certifications from credible platforms: Coursera, DeepLearning.AI, Google.
+- Participate in Kaggle competitions to practice applied ML skills.
+- Network actively: attend job fairs, webinars, and local tech meetups.
+
+SLIDE 4: Resume Tips for Tech Students
+----------------------------------------
+- Keep resume to one page for internships and early-career roles.
+- Use action verbs to begin every bullet point (Built, Developed, Deployed, Analysed).
+- Quantify where possible: "Achieved 93% accuracy", "Reduced processing time by 40%".
+- Include GitHub link, LinkedIn, and professional email prominently.
+- Tailor resume for each application — highlight skills matching the job description.
+- List only tools and languages you can genuinely discuss in an interview.
+- Put most relevant experience/projects near the top of the resume.
+
+SLIDE 5: Interview Preparation Strategy
+-----------------------------------------
+- Study the job description carefully — every keyword is a potential question.
+- Prepare concise answers for: "Tell me about yourself" and "Why this company?"
+- Practise explaining 2–3 projects end-to-end (problem → approach → result).
+- Do at least 3–5 mock technical interviews before the real one.
+- Use coding platforms (LeetCode, HackerRank) for algorithm practice.
+- Be ready to whiteboard or explain algorithms without an IDE.
+- Research the company: products, team, tech stack, recent news.
+
+SLIDE 6: Application Tracking & Follow-Up
+-------------------------------------------
+- Maintain a spreadsheet or tracker for every application you submit.
+- Record: company, role, source, date applied, deadline, interview date, outcome.
+- Send a follow-up email 5–7 days after applying if you hear nothing.
+- After an interview, always send a thank-you email within 24 hours.
+- If rejected, politely ask for feedback — it helps improve future applications.
+- Treat each application as a learning experience regardless of outcome.
+
+SLIDE 7: Salary & Negotiation Tips for Interns
+------------------------------------------------
+- Research market rates before the offer stage (Glassdoor, LinkedIn Salary).
+- It is acceptable to politely negotiate an internship stipend — most companies expect it.
+- If salary is non-negotiable, negotiate other benefits: remote work, mentorship, certificate.
+- Never accept or reject an offer on the spot — ask for 24–48 hours to consider.
+- Always get the final offer in writing before accepting.
+
+SLIDE 8: Building a Professional GitHub Profile
+-------------------------------------------------
+- Pin your best 4–6 repositories on your profile page.
+- Every repository should have a clear README: what it does, how to run it, sample output.
+- Use descriptive commit messages ("Added feature engineering step for model pipeline").
+- Keep repositories organised with clear folder structure.
+- Add topics/tags to repositories so they appear in GitHub searches.
+- Contributions graph: aim for consistent contributions over time.
+
+SLIDE 9: LinkedIn Profile Optimisation
+----------------------------------------
+- Use a professional headshot and customise your LinkedIn URL.
+- Write a compelling headline: "CS Student | Python | ML | Seeking AI Internships".
+- Add all relevant skills — recruiters search by skill keywords.
+- Request recommendations from professors, project teammates, or supervisors.
+- Share posts about your projects, certifications, and learnings regularly.
+- Follow companies you want to work for and engage with their content.
+
+SLIDE 10: Emerging AI Trends to Know for Interviews
+-----------------------------------------------------
+- Large Language Models (GPT-4, Gemini, Claude) are transforming every industry.
+- Agentic AI: autonomous agents that plan, reason, and take multi-step actions.
+- RAG (Retrieval-Augmented Generation): the dominant pattern for knowledge-grounded AI.
+- Fine-tuning vs. prompt engineering: know when to use each approach.
+- Multimodal AI: models that process text, image, audio, and video together.
+- Responsible AI: bias detection, fairness, transparency, and explainability.
+- Edge AI: deploying AI models on low-power devices (mobile, IoT).

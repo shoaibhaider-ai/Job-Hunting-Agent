@@ -1,0 +1,23 @@
+========================================
+SAMPLE JOB POSTER
+Company: Sample AI Startup
+Role: AI/ML Engineering Intern
+========================================
+
+We are looking for a motivated intern with skills in Python, machine learning,
+scikit-learn, pandas, numpy, data preprocessing, and feature engineering.
+
+Responsibilities:
+- Build and evaluate machine learning models.
+- Write Python scripts for data pipelines.
+- Use Git and GitHub for version control.
+- Communicate findings with the team.
+
+Requirements:
+- Python programming (must)
+- Machine learning and scikit-learn
+- Data analysis with pandas
+- Problem solving and teamwork
+- GitHub for project management
+
+Bonus: Flask, deep learning, SQL, communication skills
