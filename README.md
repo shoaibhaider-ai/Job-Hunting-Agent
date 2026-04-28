@@ -69,7 +69,7 @@ job-hunting-agent/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/job-hunting-agent.git
+git clone https://github.com/shoaibhaider-ai/job-hunting-agent.git
 cd job-hunting-agent
 ```
 
@@ -200,8 +200,6 @@ No paid APIs or external services required.
 
 ## Author
 
-**[Your Full Name]**  
-Roll Number: [Your Roll Number]  
-Section: [Your Section]  
-GitHub: [Your GitHub Username]  
+**[Muhammad Shoaib Haider]**    
+GitHub: [shoaibhaider-ai]  
 Date: April 28, 2026
