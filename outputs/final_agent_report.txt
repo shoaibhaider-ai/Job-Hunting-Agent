@@ -2,7 +2,7 @@
 ══════════════════════════════════════════════════════════════
   CAREERPREP FINAL REPORT
 ══════════════════════════════════════════════════════════════
-Generated on : 2026-04-28 19:29:16
+Generated on : 2026-06-10 08:17:23
 Match Score  : 76.5%  |  Matched: 26  |  Gaps: 8
 Resume Score : 95.2%
 ══════════════════════════════════════════════════════════════
@@ -11,7 +11,7 @@ Resume Score : 95.2%
 ══════════════════════════════════════════════════════════════
   JOB ANALYSIS REPORT
 ══════════════════════════════════════════════════════════════
-Generated : 2026-04-28 19:29
+Generated : 2026-06-10 08:17
 Files read: job_poster_01.txt, job_poster_02.txt
 
 SKILLS & KEYWORDS FOUND IN JOB DESCRIPTIONS
@@ -77,7 +77,7 @@ KEY ROLE INDICATORS (extracted from job text)
 ══════════════════════════════════════════════════════════════
   SKILL GAP REPORT
 ══════════════════════════════════════════════════════════════
-Generated : 2026-04-28 19:29
+Generated : 2026-06-10 08:17
 
   MATCH SCORE :  76.5%
   Progress    : [███████████████░░░░░]
@@ -132,7 +132,7 @@ PRIORITY LEARNING ROADMAP
 ══════════════════════════════════════════════════════════════
   TAILORED RESUME SUGGESTIONS
 ══════════════════════════════════════════════════════════════
-Generated : 2026-04-28 19:29
+Generated : 2026-06-10 08:17
 
 RESUME QUALITY SCORECARD
 ------------------------------------------------
@@ -184,7 +184,7 @@ SKILLS TO ACQUIRE (with learning resources)
 ══════════════════════════════════════════════════════════════
   INTERVIEW QUESTIONS
 ══════════════════════════════════════════════════════════════
-Generated : 2026-04-28 19:29
+Generated : 2026-06-10 08:17
 
 TECHNICAL QUESTIONS (BY SKILL AREA)
 ------------------------------------------------
@@ -309,7 +309,7 @@ QUESTIONS DERIVED FROM KNOWLEDGE BASE
 ══════════════════════════════════════════════════════════════
   PROJECT-TO-JOB SKILL MAPPING
 ══════════════════════════════════════════════════════════════
-Generated : 2026-04-28 19:29
+Generated : 2026-06-10 08:17
 
 This section shows which of your projects cover the required job skills.
 
@@ -347,7 +347,7 @@ This section shows which of your projects cover the required job skills.
 ══════════════════════════════════════════════════════════════
   COVER LETTER DRAFT
 ══════════════════════════════════════════════════════════════
-Date: April 28, 2026
+Date: June 10, 2026
 
 Hiring Manager
 ABC Tech Solutions
@@ -374,27 +374,27 @@ Sincerely,
 ══════════════════════════════════════════════════════════════
   APPLICATION REMINDERS
 ══════════════════════════════════════════════════════════════
-Generated  : 2026-04-28 19:29
-Today      : Tuesday, April 28, 2026
+Generated  : 2026-06-10 08:17
+Today      : Wednesday, June 10, 2026
 
-🟡  UPCOMING — THIS WEEK
+🔴  URGENT — ACTION REQUIRED NOW
 ------------------------------------------------
-  🟡 THIS WEEK — APP-001 | ABC Tech Solutions | Junior AI Engineer Intern
-    Interview : 2026-05-03  (5 days away)
+  🔴 OVERDUE  — APP-001 | ABC Tech Solutions | Junior AI Engineer Intern
+    Interview was 2026-05-03 (38 days ago). Update status.
     Next action : Revise Python & ML concepts; prepare project explanations
 
   📬 APP-002 | DataVision Analytics | Data Science Intern — Application submitted.
-    Follow-up  : 2026-05-02  (4 days away)
+    Follow-up  : 2026-05-02  (-39 days away)
     Next action: Send follow-up email if no response by May 2
+
+  🔴 OVERDUE  — APP-004 | NeuralEdge AI | ML Research Assistant
+    Interview was 2026-05-10 (31 days ago). Update status.
+    Next action : Prepare research presentation; study deep learning concepts
 
 🟢  GENERAL REMINDERS
 ------------------------------------------------
   📝 APP-003 | CloudBase Systems | Python Developer Trainee — Not applied yet!
     Next action: Tailor resume for Flask/Django; apply by April 30
-
-  🟢 PLANNED   — APP-004 | NeuralEdge AI | ML Research Assistant
-    Interview : 2026-05-10  (12 days away)
-    Next action : Prepare research presentation; study deep learning concepts
 
   ❌ APP-005 | TechStart Innovations | Software Engineering Intern — Rejected.
     Next action: Request feedback; improve GitHub portfolio projects

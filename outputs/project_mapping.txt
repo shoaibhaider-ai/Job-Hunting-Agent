@@ -2,7 +2,7 @@
 ══════════════════════════════════════════════════════════════
   PROJECT-TO-JOB SKILL MAPPING
 ══════════════════════════════════════════════════════════════
-Generated : 2026-04-28 19:29
+Generated : 2026-06-10 08:17
 
 This section shows which of your projects cover the required job skills.
 
